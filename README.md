@@ -1,6 +1,6 @@
 # Botzilla
 
-Botzilla is an AI-powered email automation tool designed to streamline the process of scheduling meetings and managing tasks. It automatically reads emails, classifies them for scheduling meetings or task assignments, and then takes appropriate actions such as updating calendars and Notion databases. A user-friendly dashboard allows you to confirm scheduled meetings to prevent scams and view your daily agenda.
+BotZilla is an AI-powered email automation tool designed to streamline the process of scheduling meetings and managing tasks. It automatically reads emails, classifies them for scheduling meetings or task assignments, and then takes appropriate actions such as updating calendars and Notion databases. A user-friendly dashboard allows you to confirm scheduled meetings to prevent scams and view your daily agenda.
 
 ## Features
 
